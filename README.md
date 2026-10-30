@@ -1,21 +1,12 @@
 # Nieves 2048 (TDD)
-
-Clon de 2048 con sabores de nieve de Dolores Hidalgo, construido con TDD en Flutter.
-Logica en Dart puro (`lib/logica`), interfaz con degradados y animaciones en `lib/presentation`.
-
-## Como ponerlo a andar
-
-1. Descomprime el zip y abre la carpeta `nieves_2048` en VS Code.
-2. En la terminal, dentro de la carpeta, agrega las plataformas:
-
-       flutter create . --platforms=android,web
-
-3. Descarga dependencias y corre las pruebas (deben pasar 20 en verde):
-
-       flutter pub get
-       flutter test --reporter expanded
-
-4. Ejecuta la app:
+Ejecuta la app:
 
        flutter run -d edge        # web (mouse o flechas del teclado)
        flutter run                # Android (emulador o telefono)
+
+
+<img width="921" height="338" alt="image" src="https://github.com/user-attachments/assets/516e0b98-744a-48ad-aac1-f2c078b343fa" />
+
+<img width="301" height="690" alt="image" src="https://github.com/user-attachments/assets/ef8f8e6c-5a5e-4294-900a-bc9622051760" />
+
+<img width="300" height="691" alt="image" src="https://github.com/user-attachments/assets/e0da8662-b946-415b-8e31-19c81043ca6f" />
