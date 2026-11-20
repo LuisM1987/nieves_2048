@@ -1,12 +1,7 @@
 # Nieves 2048 (TDD)
-Ejecuta la app:
 
-       flutter run -d edge        # web (mouse o flechas del teclado)
-       flutter run                # Android (emulador o telefono)
+<img width="692" height="408" alt="image" src="https://github.com/user-attachments/assets/f945d101-5f82-4e23-af7d-c3d6cafbd993" />
+<img width="680" height="214" alt="image" src="https://github.com/user-attachments/assets/760ea210-c2bd-4cef-a0f0-269c0d95e117" />
+<img width="683" height="114" alt="image" src="https://github.com/user-attachments/assets/173dca66-298e-4f01-9024-3504e22c762a" />
+<img width="678" height="30" alt="image" src="https://github.com/user-attachments/assets/e55a4ae6-acc9-4783-b39e-42fcbd1f4bff" />
 
-
-<img width="921" height="338" alt="image" src="https://github.com/user-attachments/assets/516e0b98-744a-48ad-aac1-f2c078b343fa" />
-
-<img width="301" height="690" alt="image" src="https://github.com/user-attachments/assets/ef8f8e6c-5a5e-4294-900a-bc9622051760" />
-
-<img width="300" height="691" alt="image" src="https://github.com/user-attachments/assets/e0da8662-b946-415b-8e31-19c81043ca6f" />
